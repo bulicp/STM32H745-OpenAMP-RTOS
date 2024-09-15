@@ -1,0 +1,15 @@
+../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/rpmsg.h:147:19:rpmsg_send	2
+../../Middlewares/Third_Party/OpenAMP/open-amp/lib/include/openamp/rpmsg.h:286:20:rpmsg_init_ept	1
+../Core/Src/main.c:124:5:main	11
+../Core/Src/main.c:246:6:SystemClock_Config	4
+../Core/Src/main.c:305:13:MX_ETH_Init	2
+../Core/Src/main.c:354:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:390:13:MX_GPIO_Init	1
+../Core/Src/main.c:418:12:rpmsg_recv_callback	1
+../Core/Src/main.c:427:6:service_destroy_cb	1
+../Core/Src/main.c:445:6:new_service_cb	1
+../Core/Src/main.c:462:6:StartRxTask	3
+../Core/Src/main.c:515:6:StartTxTask	2
+../Core/Src/main.c:535:6:MPU_Config	1
+../Core/Src/main.c:570:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:587:6:Error_Handler	1
